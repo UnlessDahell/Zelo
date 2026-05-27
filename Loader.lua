@@ -1,11 +1,9 @@
-getgenv().SCRIPT_KEY = "KEYLESS"
-
 local PlaceId = game.PlaceId
 
 local Loaders = {
     {
         Ids = {136801880565837},
-        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Flick.lua"
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Flick%20Patch%202"
     },
 
     {
@@ -17,8 +15,6 @@ local Loaders = {
 for _, Data in pairs(Loaders) do
     if table.find(Data.Ids, PlaceId) then
         
-        getgenv().SCRIPT_KEY = "KEYLESS"
-
         loadstring(game:HttpGet(Data.Link))()
 
         break
