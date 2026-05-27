@@ -3,7 +3,7 @@ local PlaceId = game.PlaceId
 
 local Loaders = {
     {
-        Ids = {2753915549},
+        Ids = {136801880565837},
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Flick.lua"
     },
 
