@@ -1,3 +1,4 @@
+getgenv().SCRIPT_KEY = "KEYLESS"
 
 local PlaceId = game.PlaceId
 
@@ -15,7 +16,11 @@ local Loaders = {
 
 for _, Data in pairs(Loaders) do
     if table.find(Data.Ids, PlaceId) then
+        
+        getgenv().SCRIPT_KEY = "KEYLESS"
+
         loadstring(game:HttpGet(Data.Link))()
+
         break
     end
 end
