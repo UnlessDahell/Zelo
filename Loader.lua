@@ -8,7 +8,7 @@ local Loaders = {
 
     {
         Ids = {142823291, 3351674303},
-        Link = "https://example.com/mm2.lua"
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/MM2"
     }
 }
 
