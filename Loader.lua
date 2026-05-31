@@ -2,12 +2,12 @@ local PlaceId = game.PlaceId
 
 local Loaders = {
     {
-        Ids = {136801880565837},
+        Ids = {136801880565837}, -- [FPS] Flick
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Flick%20Patch%202"
     },
 
     {
-        Ids = {142823291, 3351674303},
+        Ids = {142823291, 3351674303}, -- Murder Mystery 2
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/MM2"
     }
 }
