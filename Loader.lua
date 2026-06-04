@@ -9,6 +9,11 @@ local Loaders = {
     {
         Ids = {142823291, 3351674303}, -- Murder Mystery 2
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/MM2"
+    },
+    
+    {
+        Ids = {893973440}, -- Flee the Facility 
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/FtF.txt"
     }
 }
 
