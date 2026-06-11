@@ -14,6 +14,10 @@ local Loaders = {
     {
         Ids = {893973440}, -- Flee the Facility 
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/FtF.txt"
+    },
+    {
+        Ids = {79268393072444},
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/SAL"
     }
 }
 
