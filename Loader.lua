@@ -19,6 +19,10 @@ local Loaders = {
         Ids = {79268393072444}, -- Sell a Lemons
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/SAL"
     }
+    {
+        Ids = {4924922222}, -- Brookheaven
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Brookheaven"
+    }
 }
 
 for _, Data in pairs(Loaders) do
