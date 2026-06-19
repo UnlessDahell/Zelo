@@ -22,7 +22,12 @@ local Loaders = {
     {
         Ids = {4924922222}, -- Brookheaven
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Brookheaven"
+    },
+    {
+        Ids = {97598239454123}, -- Grow a Garden 2
+        Link = "https://api.rubis.app/v2/scrap/AVGjNAIpO5S9Br7d/raw"
     }
+    
 }
 
 for _, Data in pairs(Loaders) do
