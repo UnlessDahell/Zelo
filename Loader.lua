@@ -8,7 +8,7 @@ local Loaders = {
 
     {
         Ids = {142823291, 3351674303}, -- Murder Mystery 2
-        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/MM2"
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/MurderMystery2.lua"
     },
     
     {
