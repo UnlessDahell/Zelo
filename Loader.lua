@@ -29,7 +29,7 @@ local Loaders = {
     },
     {
         Ids = {16389395869, 16389398622, 17527914941}, -- A dusty trip
-        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Adustytrip.luau"
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/ADustyTrip.lua"
     },
     {
         Ids = {286090429}, -- Arsenal
