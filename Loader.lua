@@ -34,6 +34,10 @@ local Loaders = {
     {
         Ids = {286090429}, -- Arsenal
         Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Arsenal"
+    },
+    {
+        Ids = {13772394625}, -- Blade Ball
+        Link = "https://raw.githubusercontent.com/UnlessDahell/Zelo/refs/heads/main/Blade%20ball"        
     }
 }
 
